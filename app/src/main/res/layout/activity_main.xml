@@ -23,6 +23,28 @@
                 android:layout_height="wrap_content"
         />
 
+        <EditText
+                android:id="@+id/Et_weather_city"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/city"
+        />
+
+        <Button
+                android:id="@+id/Bt_weather_query"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_margin="10dp"
+                android:text="@string/query"
+        />
+
+        <TextView
+                android:id="@+id/Tv_weather_show"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="center"
+
+        />
     </LinearLayout>
 
 

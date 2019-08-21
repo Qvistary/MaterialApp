@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MaterialApp</string>
+    <string name="city">请输入城市</string>
+    <string name="query">查询</string>
 </resources>
